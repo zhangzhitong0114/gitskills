@@ -6,3 +6,4 @@ jdskfjsjfaflkjjjjkjkj
 jdskfjs"modify bug"flk;
 this is another;
 this is insert content;
+a new feature include this file;
